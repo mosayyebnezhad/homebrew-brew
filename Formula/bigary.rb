@@ -2,7 +2,7 @@ class Bigary < Formula
   desc "A simple CLI tool"
   homepage "https://github.com/mosayyebnezhad/bigary"
   url "https://github.com/mosayyebnezhad/bigary/releases/download/cv0.0.0/bigary"
-  sha256 "8e85094486aaa7656075981b46374a13665036598ffba67aa4f480f4178abb73"
+  sha256 "87036e621bc4ba6443542f022a737188452b47757bd6c171dede5023c46534fa"
   version "0.0.1"
 
   def install
